@@ -19,8 +19,8 @@
     "git": "https://github.com/Nexmo/conversation-ios-sdk.git",
     "branch": "master"
   },
-  "source_files": "NexmoConversationSDK/**/*.{h,m,swift}",
-  "public_header_files": "NexmoConversationSDK/NexmoConversationSDK.h",
+  "source_files": "NexmoConversation/**/*.{h,m,swift}",
+  "public_header_files": "NexmoConversation/NexmoConversation.h",
   "pod_target_xcconfig": {
     "SWIFT_VERSION": "3.0"
   },
