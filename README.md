@@ -1,1 +1,1 @@
-# podspecs
+# Nexmo Cocoapods pod spec
