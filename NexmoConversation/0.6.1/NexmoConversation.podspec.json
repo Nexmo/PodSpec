@@ -4,7 +4,7 @@
   "license": {
     "type": "Apache"
   },
-  "homepage": "https://github.com/nexmoinc/conversation-ios-sdk",
+  "homepage": "https://github.com/nexmo/conversation-ios-sdk",
   "authors": {
     "Shams Ahmed": "shams.ahmed@nexmo.com",
     "Jodi Humphreys": "jodi.humphreys@nexmo.com"
@@ -16,7 +16,7 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://github.com/nexmoinc/conversation-ios-sdk.git",
+    "git": "https://github.com/nexmo/conversation-ios-sdk.git",
     "branch": "master"
   },
   "source_files": "NexmoConversation/**/*.{h,m,swift}",
