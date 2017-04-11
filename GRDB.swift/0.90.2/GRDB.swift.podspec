@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
 	s.version  = '0.90.2'
 	s.license  = { :type => 'MIT', :file => 'LICENSE' }
 	s.summary  = 'A Swift application toolkit for SQLite databases.'
-	s.homepage = 'https://github.com/groue/GRDB.swift'
+	s.homepage = 'https://github.com/Nexmo/GRDB.swift'
 	s.author   = { 'Gwendal Roué' => 'gr@pierlis.com' }
-	s.source   = { :git => 'https://github.com/Nexmo/GRDB.swift.git', :tag => "v#{s.version}" }
+	s.source   = { :git => 'https://github.com/Nexmo/GRDB.swift.git', :tag => "0.90.2" }
 	s.module_name = 'GRDB'
 	s.ios.deployment_target = '8.0'
 	s.osx.deployment_target = '10.9'
