@@ -16,7 +16,7 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://github.com/nexmoinc/conversation-ios-sdk",
+    "git": "https://github.com/nexmoinc/conversation-ios-sdk.git",
     "branch": "master"
   },
   "source_files": "NexmoConversation/**/*.{h,m,swift}",
@@ -33,7 +33,7 @@
       "~> 1.2.4"
     ],
     "GRDB.swift": [ /* https://github.com/groue/GRDB.swift */
-      "~> 0.90.1"
+      "~> 0.90.2"
     ],
     "Alamofire": [ /* https://github.com/Alamofire/Alamofire */
       "~> 4.4.0"
